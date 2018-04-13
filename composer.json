@@ -1,0 +1,15 @@
+{
+    "name": "stoneryancn/mlrt",
+    "description": "test ing",
+    "type": "project",
+    "require": {
+        "topthink/think": "^5.0"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "zhouwenxiao",
+            "email": "zhouwenxiao@qq.com"
+        }
+    ]
+}
